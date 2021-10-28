@@ -27,7 +27,6 @@ type Card struct {
 	PAN        PAN
 	Balance    Money
 	Currency   Currency
-	Color      string
 	Name       string
 	Active     bool
 }
